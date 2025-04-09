@@ -1,0 +1,108 @@
+'MS_SubClass',   	!SMALL
+'MS_Zoning', 
+'Lot_Frontage',  	!MEAD
+'Lot_Area', 	 	!MEAD
+'Street',
+'Lot_Shape', 
+'Land_Contour', 
+'Utilities', 
+'Lot_Config',
+'Land_Slope',
+'Neighborhood',
+'ConditionOne', 
+'ConditionTwo', 
+'Bldg_Type',
+'House_Style',
+'Overall_Qual',		! GOOD
+'Overall_Cond',		!GOOD
+'Year_Built',		!MEAD
+'Year_Remod_or_Add', 	!MEAD
+'Roof_Style', 
+'Roof_Matl', 
+'Exterior_Frist',
+'Exterior_Second',
+'Mas_Vnr_Type', 
+'Mas_Vnr_Area',		! MEAD
+'Exter_Qual',
+'Exter_Cond',
+'Foundation', 
+'Bsmt_Qual',
+'Bsmt_Cond', 
+'Bsmt_Exposure',
+'BsmtFin_Type_One',
+'BsmtFin_SF_One', 	!MEAD
+'BsmtFin_Type_Two',	!MEAD
+'BsmtFin_SF_Two'
+'Bsmt_Unf_SF',		!MEAD
+'Total_Bsmt_SF', 	!GOOD!!
+'Heating',
+'Heating_QC', 
+'Central_Air', 
+'Electrical',
+'First_Flr_SF',		!GOOD!!
+'Second_Flr_SF',	!GOOD!!
+'Low_Qual_Fin_SF', 	!
+'Gr_Liv_Area',		!GOOD!!!
+'Bsmt_Full_Bath',	!
+'Bsmt_Half_Bath',	!
+'Full_Bath', 		!SMALL
+'Half_Bath', 		!
+'Bedroom_AbvGr',	!
+'Kitchen_AbvGr',	!
+'Kitchen_Qual', 
+'TotRms_AbvGrd', 	!SMALL
+'Functional',
+'Fireplaces',		! 
+'Fireplace_Qu', 
+'Garage_Type', 
+'Garage_Yr_Blt',	!SMALL
+'Garage_Finish', 
+'Garage_Cars',		!
+'Garage_Area',		!GOOD 
+'Garage_Qual',
+'Garage_Cond', 
+'Paved_Drive', 
+'Wood_Deck_SF',		!MEAD 
+'Open_Porch_SF',	!MEAD
+'Enclosed_Porch',	!MEAD
+'3Ssn_Porch',		! MEAD
+'Screen_Porch', 	!SMALL
+'Pool_Area',		!
+'Misc_Val',		!
+'Mo_Sold', 		!
+'Yr_Sold',		! 
+'Sale_Type', 
+'Sale_Condition',
+'SalePrice'
+
+
+
+  corr > 0.1 
+0.8176390947009039   
+ridg .8183417706894246  ridg best scor 0.8185931583807775
+ridg greadsearch 0.8185931583807775
+
+	corr>0.075
+0.8193049791040689
+0.8190890285841683
+
+	corr>0.06
+0.8193804116683268
+0.8196991401340813
+
+	corr> 0.05 
+0.8178841631764776 
+ridg 0.8184504898174656  ridg best scor 0.8193630499525331
+ridg greadsearch 0.8193630499525331
+
+
+
+	corr > 0.005
+0.8164796457723402
+ridg 0.8178104809267372  ridg best scor 0.8188830132457707
+ridg greadsearch 0.8188830132457707
+
+	corr >0
+14.541727848453291
+ridg 0.8136191236415654   ridg  best scor 0.8178136339438976
+ridg greadsearch 0.8178136339438976

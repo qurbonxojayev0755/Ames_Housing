@@ -1,0 +1,40 @@
+1.  data frame bilan ishlash 
+	a) dfni yuklab olish va unda nima borligini tekshirish 
+	b) dfdani NaN qiymatlarini aniqlash 
+	c) df dagi NaN qiymatlarini 80% va undan ko' qismi yo'qolgan bo'lsa ularniuchurush 
+	!! keyinchalik halal bermasligiuchun NaN qiymatlarini almashtirish yoki uchurmadim chunki OnehoteEncoder bu qiymatlar uchun alohida ustun yaratmasaekan 
+2.  df dagi har columunlarni onhot encoder orqaliy raqamlalashtirishi 
+	a) birinchi navabatda chatigoryali culumunlarni OHE ga qo'yish 
+	b) kolichistivali danilarni catigoryaga o'zgartirish va ulani ham ohe ga tashlash 
+	c) hamma dalniylar almashganini tekshirish 
+3. corelatsiyion matritsa va yana bir nechta grafiklar orqaliy tekshirish 
+
+4. linearniy regretsiya orqaliy madel yaratish 
+	a) odiy o'zi orqaliy 
+	b) greadserch orqaliy 
+
+5.Desegiontreeclasification 
+	a) odiy o'zi orqaliy 
+	b) greadserch orqaliy 
+
+6.stacking orqali
+	a) odiy o'zi orqaliy 
+	b) greadserch orqaliy 
+	random forest orqali
+	a) odiy o'zi orqaliy 
+	b) greadserch orqaliy 
+
+8. boosting orqali 
+	a)addBoost
+	b)catBoost
+	c)lightGBM
+	d)XGBoost
+	!! birma bir shu madellar bilan tekshirish 
+9.Xulosa 
+
+	a)qaysi madel yaxshiroq natija ko'rsatdi
+	b) qaysi madel bu turdagi malumotlarga mos keladi 
+	c) umumiy hulosa 
+
+
+
